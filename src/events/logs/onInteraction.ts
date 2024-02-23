@@ -2,7 +2,7 @@ import { Event } from "../../structs/types/Event";
 import { config } from "../..";
 import { ColorResolvable, EmbedBuilder, time } from "discord.js";
 
-const logsCanal = "1210239079149740082";
+const logsCanal = "Seu ID de canal de texto";
 
 export default new Event({
   name: "interactionCreate",
